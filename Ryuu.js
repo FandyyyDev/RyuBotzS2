@@ -910,7 +910,7 @@ Ryuu.sendMessage(from, { contentText: `${menu}`, footerText: `${teks}`, buttons:
 break
 case 'donasi':
 if (!isUser) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: ftrol})
-reply(`*TERIMA KASIH SUDAH MAU DONASI 🤗*\n\n*Q.S Az-Zalzalah Ayat 7 :*\n\nفَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَّرَهٗۚ\n\nArtinya : Maka barangsiapa \nmengerjakan kebaikan seberat\nzarrah, niscaya dia akan melihat \n(balasan)nya,\n\ncontact owner :\nwa.me/${ownernumber} (Owner)`) 
+reply(`╭ *[ DONASI BANJ BIAR FAST ]*\n│❏ *GOPAY* 0882000579597\n│❏ *DANA* 0882000579597\n│❏ *OVO* 0882000579597\n╰─────────\n\ncontact owner :\nwa.me/${ownernumber} (Owner)`) 
 break
 case 'verify': case 'daftar':
  if (isUser) return reply('Kamu sudah terdaftar di dalam database')
